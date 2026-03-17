@@ -1,6 +1,6 @@
 # AWS Identity
 
-<img src="https://github.com/Tools4ever-NIM/NIM-System-REST-AWS-Identity/blob/main/logo.png?raw=true" width="256px" />
+<img src="https://github.com/Tools4ever-NIM/NIM-System-REST-AWS-Identity/blob/main/Logo.png?raw=true" width="256px" />
 
 ## Data Tables
 - Groups
